@@ -1,0 +1,41 @@
+.nav-container {
+    position: fixed;
+    width: 100vw;
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 20px;
+    background-color: #E1E9E8;
+    padding-left: 50px;
+    color: #E18801;
+    opacity: 90%;
+    z-index: 1;
+}
+
+nav.nav-items {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 40vw;
+    min-width: 368px;
+    margin-right: 2vw;
+    color: #E18801;
+}
+
+a {
+    text-decoration: none !important;
+    color:#E18801 !important;
+    font-weight: 700;
+}
+
+ul.nav {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 40vw;
+    min-width: 368px;
+}
+ul li a {
+    font-size: 1.4rem;
+}
