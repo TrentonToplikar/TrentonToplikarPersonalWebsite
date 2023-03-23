@@ -15,6 +15,6 @@ Edit `pages/page1$.tsx` or other source files, the playground will inflect your 
 
 `npm run build` The app are built and served.
 
----
+# Enjoy!
 
-#Enjoy!
+---
