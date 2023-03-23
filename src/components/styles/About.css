@@ -45,7 +45,7 @@ li {
 
 .bottom-of-page2 {
     width: 70vw;
-    background: linear-gradient(to right, rgb(255, 98, 0) 0%, rgb(167, 79, 255) 100%) !important;
+    background: linear-gradient(to right, rgba(255, 98, 0, 0.995) 0%, rgb(167, 79, 255) 100%) !important;
     border: 0px;
     height: 6px !important;
     border-radius: 50%;
