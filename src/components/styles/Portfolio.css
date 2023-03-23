@@ -11,7 +11,7 @@
 }
 .container{
   margin-top: 4rem;
-  margin-bottom: 190px;
+  margin-bottom: 80px;
   float: left;
   width: 600px;
 }
@@ -143,4 +143,7 @@ color: #b29e84;
 }
 li{
 font-size: 20px;
+}
+#portfolio-href {
+  margin-bottom: 110px;
 }

@@ -3,9 +3,7 @@
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    width: 10vw;
     color: #B29E84;
-    margin: 2rem;
 }
 
 .more-questions {
@@ -25,6 +23,3 @@
     word-spacing: 5px;
 }
 
-#contact-form {
-    margin-bottom: 3rem;
-}

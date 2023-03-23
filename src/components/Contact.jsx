@@ -8,7 +8,7 @@ const Contact = () => {
   return (
     <div className="horizontal-rule">
         <hr />
-      <div className="section container">
+      <div className="section container section-container">
           <h2 className="more-questions">Contact Me</h2>
         <div className="questions">
           <h3 className="below-more-questions">Have a question? Send me a message with your name and email!</h3>
