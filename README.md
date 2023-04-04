@@ -1,7 +1,7 @@
 ## TrentonToplikarPersonalWebsite
 
 Welcome to my personal website!
-This project demonstrate how to develop a React app using [vite-plugin-react-pages] as framework.
+Check out my personal website here--> https://trenton-toplikar.herokuapp.com/
 
 You can run this demo in, entirely in your browser!
 
